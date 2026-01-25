@@ -1,4 +1,6 @@
 # Contents
+
+### Module 1
 - VS Code setup screenshots
 - Git exercises proof
 - JavaScript project repo
