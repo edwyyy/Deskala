@@ -15,6 +15,15 @@
 - SQL script for db academic_system
 - Fundamentals / assessment docx
 
+### Module 4 (added as a separate repo)
+> A backend project for task management
+- User registration & login
+- Passwords hashed with bcrypt
+- JWT‑based authentication
+- CRUD operations for tasks
+- MongoDB connection
+
+
 
 
 
